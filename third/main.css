@@ -1,0 +1,69 @@
+
+.header{
+  background-color: lightgray;
+  height: 12vh
+}
+
+
+.box_one{
+
+  background-color: white;
+  height:28vh;
+  width:100%;
+  text-align: center;
+  margin-left: 64px;
+  margin-right: 164px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 46px 30px 46px 30px
+}
+
+
+.box_two {
+  background-color: #3a4f91;
+  height:15vh;
+  width:100%;
+}
+
+.box_three {
+  background-color: #80e8c4;
+  height:15vh;
+  width:100%;
+}
+
+.box_four {
+  background: #bbf7a8;
+  height: 15vh;
+  width: 100%;
+
+}
+
+.box_five {
+  background-color: yellow;
+  height:15vh;
+  width:100%;
+}
+
+.box_six{
+  background-color: #3a4f91;
+  height: 9vh;
+  width: 10%;
+  float: left;
+  top: 0;
+  position: absolute;
+  line-height: 500%;
+  margin: 13px
+}
+
+.box_seven {
+  background-color:white
+  height:26vh
+  width: 100%
+}
+  <--// background: red;
+  height: 25vh;
+  width: 33.3%;
+  float: right;
+  bottom: 0;
+  position: absolute;
+}-->

@@ -1,0 +1,42 @@
+
+
+.main_header{
+  background: #424549;
+  height: 15vh;
+  width: 100%;
+}
+
+
+
+.box_left{
+
+  background-color: gray;
+  height:90vh;
+  width:10%;
+  float:left;
+
+}
+
+
+.right_box {
+  background-color: gray;
+  height:90vh;
+  width:10%;
+  float:left;
+}
+
+.center_box {
+  background-color: white;
+  height:800px;
+  width:80%;
+  float:left;
+}
+
+.bottom_box {
+  background: black;
+  height: 100px;
+  width: 80%;
+  position: absolute;
+  bottom: 0;
+  z-index: 0;
+}
